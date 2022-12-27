@@ -1,2 +1,2 @@
-# 2-stages-quiz
-This has a 2 stage quiz using interfacing of mySQL with Python
+# Python and MySQL practicals
+This has all of my python and mysql practicals
